@@ -1,0 +1,79 @@
+package akatev_ist1lab;
+import java.util.Scanner;
+
+public class zad1 {
+
+    
+    public static void calculateFunctionSum() {
+        Scanner s = new Scanner(System.in);
+        
+        
+        System.out.print("Введите значение переменной y: ");
+        float y = s.nextFloat();
+        
+        
+        float x_min = 2.0f;
+        float x_max = 3.0f;
+        double step = 0.1;
+        double result;
+        double sum = 0;
+        
+        
+        for (double x = x_min; x <= x_max; x += step) {
+            
+            result = 3 * Math.cos(x) * Math.sin(2 * x * y);
+            sum += result;  // Добавляем результат к сумме
+        }
+        
+        
+        System.out.println("Сумма функции: " + sum);
+    }
+
+    // Вторая задача: таблица температур
+    public static void printTemperatureTable() {
+        
+        System.out.printf("%-15s %-15s\n", "Цельсий (°C)", "Кельвин (K)");
+        
+        
+        for (int celsius = 0; celsius <= 100; celsius++) {
+            
+            double kelvin = celsius + 273.15;
+            
+            
+            System.out.printf("%-15d %-15.2f\n", celsius, kelvin);
+        }
+    }
+    
+    public static void deliteli() {
+    	 Scanner s = new Scanner(System.in);
+    	System.out.print("Задание №10 \n Введите число P, для которого требуется определить кол-во делителей. \n");
+        int P = s.nextInt();
+        int counter = 1;
+        for(int i = 1;i < P;i += 1)
+        {
+            if (P % i == 0)
+            {
+                counter += 1;
+            }
+        }
+
+    }
+    
+    public static void summa() {
+    	Scanner s = new Scanner(System.in);
+        System.out.print("Задание №1 \n");
+        int sum = 0;
+        for(int y = 3; y < 100; y =y+ 3)
+        {
+            sum = sum + y;
+        }
+        System.out.print("Сумма от 3 до 99 равна: "+ sum +" \n");
+
+    }
+    public static void main(String[] args) {
+        summa();
+        deliteli();
+        printTemperatureTable();
+        calculateFunctionSum();
+    }
+}
