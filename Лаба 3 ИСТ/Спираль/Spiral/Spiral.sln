@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spiral", "Spiral.csproj", "{539AC1F1-EB12-4178-8D86-70A471F40ABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{539AC1F1-EB12-4178-8D86-70A471F40ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{539AC1F1-EB12-4178-8D86-70A471F40ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{539AC1F1-EB12-4178-8D86-70A471F40ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{539AC1F1-EB12-4178-8D86-70A471F40ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2580F09-1A2B-4010-8C7C-F489F12F1F12}
+	EndGlobalSection
+EndGlobal

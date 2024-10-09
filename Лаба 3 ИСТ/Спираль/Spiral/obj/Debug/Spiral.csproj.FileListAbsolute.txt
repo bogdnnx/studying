@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\ИСТ-318Б\Гафаров М.Р. Еременко С.В\Лаба 3 ИСТ\Спираль\Spiral\obj\Debug\Spiral.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\ИСТ-318Б\Гафаров М.Р. Еременко С.В\Лаба 3 ИСТ\Спираль\Spiral\obj\Debug\Spiral.Properties.Resources.resources
+C:\Users\student\Desktop\ИСТ-318Б\Гафаров М.Р. Еременко С.В\Лаба 3 ИСТ\Спираль\Spiral\obj\Debug\Spiral.csproj.GenerateResource.cache
+C:\Users\student\Desktop\ИСТ-318Б\Гафаров М.Р. Еременко С.В\Лаба 3 ИСТ\Спираль\Spiral\obj\Debug\Spiral.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\ИСТ-318Б\Гафаров М.Р. Еременко С.В\Лаба 3 ИСТ\Спираль\Spiral\obj\Debug\spiral.Form1.resources
+C:\Users\student\Desktop\ИСТ-318Б\Гафаров М.Р. Еременко С.В\Лаба 3 ИСТ\Спираль\Spiral\bin\Debug\Spiral.exe.config
+C:\Users\student\Desktop\ИСТ-318Б\Гафаров М.Р. Еременко С.В\Лаба 3 ИСТ\Спираль\Spiral\bin\Debug\Spiral.exe
+C:\Users\student\Desktop\ИСТ-318Б\Гафаров М.Р. Еременко С.В\Лаба 3 ИСТ\Спираль\Spiral\bin\Debug\Spiral.pdb
+C:\Users\student\Desktop\ИСТ-318Б\Гафаров М.Р. Еременко С.В\Лаба 3 ИСТ\Спираль\Spiral\obj\Debug\Spiral.exe
+C:\Users\student\Desktop\ИСТ-318Б\Гафаров М.Р. Еременко С.В\Лаба 3 ИСТ\Спираль\Spiral\obj\Debug\Spiral.pdb
